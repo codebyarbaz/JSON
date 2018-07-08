@@ -1,0 +1,63 @@
+{
+    "shirts": [{
+            "id": 1,
+            "name": "Deeksha Men's Solid Casual Button Down Shirt",
+            "price": 359,
+            "url": "https://rukminim1.flixcart.com/image/832/832/jievpu80/shirt/p/q/z/xl-shirt-196-deeksha-original-imaf67nthqazxugu.jpeg"
+        },
+        {
+            "id": 2,
+            "name": "United Colors of Benetton Men's Checkered Casual Spread Shirt",
+            "price": 1001,
+            "url": "https://rukminim1.flixcart.com/image/832/832/jh9fy4w0/shirt/m/v/x/m-17a5dr01u008i905-united-colors-of-benetton-original-imaf5bap9hahbgzh.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "Deeksha Men's Solid Casual Button Down Shirt",
+            "price": 359,
+            "url": "https://rukminim1.flixcart.com/image/832/832/jievpu80/shirt/e/y/z/s-shirt-194-deeksha-original-imaf67ntcnvx8qsc.jpeg"
+        },
+        {
+            "id": 4,
+            "name": "John Players Men's Printed Casual Shirt",
+            "price": 999,
+            "url": "https://rukminim1.flixcart.com/image/832/832/jbmjf680/shirt/f/d/p/40-zcmwsha177014mood-indigo-john-players-original-imafyyyykzzknhzn.jpeg"
+        },
+        {
+            "id": 5,
+            "name": "Tripr Men Solid Casual Shirt",
+            "price": 571,
+            "url": "https://rukminim1.flixcart.com/image/832/832/jj6130w0/shirt/d/g/e/l-tblbgshirtful-sh2-tripr-original-imaf6stvehsk5cza.jpeg"
+        },
+        {
+            "id": 6,
+            "name": "Zombom Men's Solid Casual Spread Shirt",
+            "price": 677,
+            "url": "https://rukminim1.flixcart.com/image/832/832/jeiukcw0/shirt/g/n/b/44-sh702-sky-blue-36-zombom-original-imaf36zmpfgmn9qh.jpeg"
+        },
+        {
+            "id": 7,
+            "name": "Deeksha Men's Solid Casual Button Down Shirt",
+            "price": 359,
+            "url": "https://rukminim1.flixcart.com/image/832/832/jgo0ccw0/shirt/z/w/z/m-shirt-163-deeksha-original-imaf4zyeacaaayte.jpeg"
+        },
+        {
+            "id": 8,
+            "name": "Metronaut Men's Solid Casual Mandarin Shirt",
+            "price": 584,
+            "url": "https://rukminim1.flixcart.com/image/832/832/jiqb8nk0/shirt/e/r/j/m-ms18sh051d-metronaut-original-imaf6gjyqqzevgpf.jpeg"
+        },
+        {
+            "id": 9,
+            "name": "Deeksha Men's Solid Casual Button Down Shirt",
+            "price": 359,
+            "url": "https://rukminim1.flixcart.com/image/832/832/jgo0ccw0/shirt/s/y/g/l-shirt-163-deeksha-original-imaewn9yzskastmx.jpeg"
+        },
+        {
+            "id": 10,
+            "name": "BASE 41 Men's Solid Casual Mandarin Shirt",
+            "price": 450,
+            "url": "https://rukminim1.flixcart.com/image/832/832/jic0u4w0/shirt/j/g/f/xl-stand-half-black-base-41-original-imaf64kmjveh3jks.jpeg"
+        }
+    ]
+}
